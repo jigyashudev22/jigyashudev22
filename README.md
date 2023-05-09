@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on .. embedded system project
 - 📫 How to reach me .. jigyashudev22@gmail.com 
 - 💡 LinkedIn   linkedin.com/in/jigyashu-kumar-624470134
+- YouTube   bestcuriosity@1
+- 
 
 <!---
 jigyashudev22/jigyashudev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
